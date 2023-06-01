@@ -108,7 +108,7 @@ apt install curl -y
 apt install proot -y
 
 
-figlet -f slant 'ANONYMOUS U7P4L' |lolcat
+figlet -f slant 'U7P4L  IN' |lolcat
 echo
 echo
 echo 
