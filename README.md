@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/U7P4L-IN/IP-UNBLOCKER/blob/master/Image/GridArt_20230822_205234985.jpg">
+<p align="center"><img src="https://github.com/U7P4L-IN/IP-UNBLOCKER/blob/master/Image/github-header-image.png">
 
 IP Unblocker Is A Plugin That Works In Conjunction With Cpanel And Directadmin Servers Running The Software Firewall Csf And Lfd. Lfd Can Block Ip Addresses Of Users That Login Repeatedly With The Wrong Credentials. This Plugin Provides A Means For Clients To Unblock Your Own IP Address Should That Happen To Them.
 
@@ -23,7 +23,7 @@ python3 IP.py
 
 ## SCREENSHOT
 
-<p align="center"><img src="https://github.com/U7P4L-IN/IP-UNBLOCKER/blob/master/Image/github-header-image.png">
+<p align="center"><img src="https://github.com/U7P4L-IN/IP-UNBLOCKER/blob/master/Image/GridArt_20230822_205234985.jpg">
 
 # CONTACT:
 ```sh
