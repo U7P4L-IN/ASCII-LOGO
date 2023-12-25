@@ -78,7 +78,7 @@ apt update && apt upgrade -y
 pkg install git
 pkg install python
 pip install requests
-rm -rf NUMBER-INFO
+rm -rf ASCII-LOGO
 git clone --depth=1 https://github.com/U7P4L-IN/ASCII-LOGO.git
 cd ASCII-LOGO
 python3 logo.py
