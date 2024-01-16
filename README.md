@@ -64,7 +64,7 @@ And some other python packages
 
 <hr>
 
-<img src="https://github.com/U7P4L-IN/ASCII-LOGO/blob/master/Image/IMG_20231225_155608_437.jpg" alt="ASCII-LOGO v2.1" float="center"/>
+<img src="https://github.com/U7P4L-IN/ASCII-LOGO/blob/master/Image/GridArt_20240117_033946172.jpg" alt="ASCII-LOGO v2.1" float="center"/>
 
 ### Install Requirements (on Linux)
 
@@ -89,7 +89,12 @@ python3 logo.py
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ASCII-LOGO&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-## ©️ Copyright Message
-Copyright © [2023-27] [U7P4L-IN]
 
-All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of ANONYMOUS CYBER. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
+<h5 align="center"><b>DESCRIPTION</b></h5>
+
+> [!NOTE]  
+> All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
+
+# Give A Star ⭐
+
+> You can also give this repository a star to show more people and they can use this repository
