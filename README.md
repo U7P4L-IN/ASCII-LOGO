@@ -1,4 +1,4 @@
-<img src="https://github.com/U7P4L-IN/ASCII-LOGO/blob/master/Image/IMG_20231225_143607_014.jpg" float="center">
+<img src="/Image/demo2.png" float="center">
 
 <p>
  <img src="https://img.shields.io/github/stars/U7P4L-IN/ASCII-LOGO?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -51,7 +51,7 @@ sudo python3 logo.py
 ```
 
 # Report bugs
-If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: AnonyminHack5@protonmail.com">Gmail</a> or Open an issue via github.
+If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
 
 ## Requirements 
 ```
@@ -64,7 +64,7 @@ And some other python packages
 
 <hr>
 
-<img src="https://github.com/U7P4L-IN/ASCII-LOGO/blob/master/Image/GridArt_20240117_033946172.jpg" alt="ASCII-LOGO v2.1" float="center"/>
+<img src="/Image/demo1.jpg" alt="ASCII-LOGO v1.0.2" float="center"/>
 
 ### Install Requirements (on Linux)
 
@@ -77,13 +77,11 @@ And some other python packages
 apt update && apt upgrade -y
 pkg install git
 pkg install python
-pip install requests
-rm -rf ASCII-LOGO
 git clone --depth=1 https://github.com/U7P4L-IN/ASCII-LOGO.git
 cd ASCII-LOGO
 python3 logo.py
-
 ```
+<img src="/Image/result.png" alt="ASCII-LOGO v1.0.2" float="center"/>
 
 #### Tools Languages :
 
